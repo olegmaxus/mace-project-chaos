@@ -7,6 +7,15 @@ warnings.filterwarnings('ignore')
 """
 TODO: Rewrite the code in accordance
 with standards, as it is quite messy
+
+Acknowledgements:
+Sicere thanks to Mr. Lutz Lehmann
+who has provided us with the idea
+and the code for plotting the strange
+attractor for the given system of
+differential equations
+
+https://math.stackexchange.com/users/115115/lutz-lehmann
 """
 
 
